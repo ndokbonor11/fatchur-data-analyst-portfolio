@@ -8,21 +8,21 @@ Here is my CV [CV.pdf](https://github.com/ndokbonor11/fatchur-data-analyst-portf
 # Project
 This section are my data visualization using Tableau and Excel
 1. Propam Dashboard
-   ![propam](https://github.com/ndokbonor11/fatchur-data-analyst-portfolio/assets/42308336/2cef6109-39f7-4d95-b952-c965672bb5d2)
+   ![propam](https://github.com/ndokbonor11/fatchur-data-analyst-portfolio/assets/42308336/b85feea0-1a95-47a7-9166-ccae5a65ffbf)
    Propam is one of the National Police organizational units in the form of a division which is responsible for matters of professional development and security in the internal environment of the National Police organization. The National Police Propam Division as one of the implementing elements of the National Police's special staff at the Headquarters level is led by a Division Head known as Kadiv with the rank of Inspector General of Police / Inspector General of Police or Two Star.
    
 3. Panenpanen Purchasing Dashboard
-  ![panenpanenseller](https://github.com/ndokbonor11/fatchur-data-analyst-portfolio/assets/42308336/f5d9107d-29d1-48cc-aab9-b9baadd8e40e)
+   ![panenpanenseller](https://github.com/ndokbonor11/fatchur-data-analyst-portfolio/assets/42308336/a94980db-e95c-4e57-8161-e5e59593ebe7)
    PanenPanen is a supply chain management platform specifically for Indonesian agricultural products. Supported by the Warung Panen Program as a reseller partner.
 
 5. Donexpress Dashboard
-    ![donexpress](https://github.com/ndokbonor11/fatchur-data-analyst-portfolio/assets/42308336/026992cc-95c3-40ec-a58f-f086f267a54d)
+   ![donexpress](https://github.com/ndokbonor11/fatchur-data-analyst-portfolio/assets/42308336/0ee28956-edf5-4e54-8bf0-61acfa945147)
    Don Express is a virtual application aimed at Social Electronic Commerce in Latin America, available in Mexico, Chile and Colombia, providing you with a wide range of quality products at the best market prices. It allows regular users to make purchases, track their orders, and share with their friends the products they want to recommend to buy.
    
 7. Scriptmatic Dashboard
-   ![Scripmatic](https://github.com/ndokbonor11/fatchur-data-analyst-portfolio/assets/42308336/10a4f8bb-eab8-4a63-9210-f224e7c15c0f)
+   ![Scripmatic](https://github.com/ndokbonor11/fatchur-data-analyst-portfolio/assets/42308336/aedf7082-7c13-4c8a-a6fa-f48c1559ad43)
    Scriptmatic is a Customer Relationship Management (CRM) platform that makes it easy for Customer Service to generate reply scripts for their customers.
    
 9. Amazon Sales Dashboard
-   ![amazon](https://github.com/ndokbonor11/fatchur-data-analyst-portfolio/assets/42308336/85b5efc5-c1dc-4ea7-ab91-c6401c10460c)
+   ![amazon](https://github.com/ndokbonor11/fatchur-data-analyst-portfolio/assets/42308336/14a78c0c-fa4d-4e22-b5bd-8a6b9e7731ce)
    Amazon is an American multinational technology and e-commerce company based in Seattle, Washington. It was founded by Jeff Bezos on July 5, 1994. Originally, it started as an online bookstore, but it quickly diversified into selling a wide range of products, including electronics, clothing, books, and more.
