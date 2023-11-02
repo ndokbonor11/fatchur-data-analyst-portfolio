@@ -11,7 +11,7 @@ This section are my data visualization using Tableau and Excel
    ![propam](https://github.com/ndokbonor11/fatchur-data-analyst-portfolio/assets/42308336/b85feea0-1a95-47a7-9166-ccae5a65ffbf)
    Propam is one of the National Police organizational units in the form of a division which is responsible for matters of professional development and security in the internal environment of the National Police organization. The National Police Propam Division as one of the implementing elements of the National Police's special staff at the Headquarters level is led by a Division Head known as Kadiv with the rank of Inspector General of Police / Inspector General of Police or Two Star.
    
-3. Panenpanen Purchasing Dashboard
+3. Panenpanen Dashboard
    ![panenpanenseller](https://github.com/ndokbonor11/fatchur-data-analyst-portfolio/assets/42308336/a94980db-e95c-4e57-8161-e5e59593ebe7)
    PanenPanen is a supply chain management platform specifically for Indonesian agricultural products. Supported by the Warung Panen Program as a reseller partner.
 
