@@ -24,5 +24,5 @@ This section are my data visualization using Tableau and Excel
    Scriptmatic is a Customer Relationship Management (CRM) platform that makes it easy for Customer Service to generate reply scripts for their customers.
    
 9. Amazon Sales Dashboard
-   ![amazon](https://github.com/ndokbonor11/fatchur-data-analyst-portfolio/assets/42308336/14a78c0c-fa4d-4e22-b5bd-8a6b9e7731ce)
-   Amazon is an American multinational technology and e-commerce company based in Seattle, Washington. It was founded by Jeff Bezos on July 5, 1994. Originally, it started as an online bookstore, but it quickly diversified into selling a wide range of products, including electronics, clothing, books, and more.
+   ![amazon](https://github.com/ndokbonor11/fatchur-data-analyst-portfolio/assets/42308336/cf3ddde4-2c85-4343-ae59-27cb1abe9610)
+Amazon is an American multinational technology and e-commerce company based in Seattle, Washington. It was founded by Jeff Bezos on July 5, 1994. Originally, it started as an online bookstore, but it quickly diversified into selling a wide range of products, including electronics, clothing, books, and more.
